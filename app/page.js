@@ -391,7 +391,7 @@ if(formattedDate == "15/11/2025"){
                   </div>
                   <div className="flex items-center">
                     <span className="w-2 h-2 bg-blue-600 rounded-full mr-3"></span>
-                    <span className="text-gray-700"><strong>Price:</strong> From $60 per detailed report</span>
+                    <span className="text-gray-700"><strong>Price:</strong> From $35 per detailed report</span>
                   </div>
                   <div className="flex items-center">
                     <span className="w-2 h-2 bg-blue-600 rounded-full mr-3"></span>
@@ -615,7 +615,7 @@ if(formattedDate == "15/11/2025"){
                   <span className="text-sm font-semibold">✓ Trusted</span>
                 </div>
                 <div className="absolute -bottom-4 -left-4 bg-blue-600 text-white px-4 py-2 rounded-full shadow-lg">
-                  <span className="text-sm font-semibold">From $60</span>
+                  <span className="text-sm font-semibold">From $35</span>
                 </div>
               </div>
             </div>
