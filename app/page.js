@@ -17,9 +17,9 @@ export default function App() {
     clientToken: process.env.NEXT_PUBLIC_PADDLE_CLIENT_TOKEN,
     priceId: process.env.NEXT_PUBLIC_PADDLE_PRICE_ID,
     products: {
-      hatchback: 'pri_01k34bw78gwcmqk98s3jjda6k4',
-      sedan: 'pri_01kcvwfzy6kffsgz4v9s3d8fx9',
-      '4x4': 'pri_01kcvwnemp9042xv448gefr5ct'
+      hatchback: 'pri_01jykanfvhz2kh2sp1wjs39z99',
+      sedan: 'pri_01jykaf1t5gryns9vsdkcbk3mj',
+      '4x4': 'pri_01jykaqf57xb633t461qes8b7g'
     }
   }
 
@@ -469,7 +469,7 @@ if(formattedDate == "15/11/2025"){
                             : 'border-gray-300 hover:border-blue-300'
                         }`}
                       >
-                        <div className="text-3xl mb-2 font-bold text-blue-600">$60</div>
+                        <div className="text-3xl mb-2 font-bold text-blue-600">$35</div>
                         <div className="font-bold text-lg text-gray-900">HATCHBACK</div>
                         <div className="text-xs text-gray-600 mt-1">Compact & Efficient</div>
                       </button>
@@ -483,7 +483,7 @@ if(formattedDate == "15/11/2025"){
                             : 'border-gray-300 hover:border-blue-300'
                         }`}
                       >
-                        <div className="text-3xl mb-2 font-bold text-blue-600">$80</div>
+                        <div className="text-3xl mb-2 font-bold text-blue-600">$60</div>
                         <div className="font-bold text-lg text-gray-900">SEDAN</div>
                         <div className="text-xs text-gray-600 mt-1">Classic & Comfortable</div>
                       </button>

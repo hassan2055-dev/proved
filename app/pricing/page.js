@@ -276,7 +276,7 @@ export default function Pricing() {
                     <div className="font-bold text-xl text-gray-900 mb-2">HATCHBACK</div>
                     <div className="text-sm text-gray-600 mb-4">Compact & Efficient</div>
                     <div className="flex items-center justify-center mb-2">
-                      <span className="text-4xl font-bold text-blue-600">$60</span>
+                      <span className="text-4xl font-bold text-blue-600">$35</span>
                     </div>
                     <div className="text-xs text-gray-600">Per report • One-time payment</div>
                     <div className="mt-4 bg-blue-600 text-white py-2 px-4 rounded-lg font-semibold text-sm">
@@ -291,7 +291,7 @@ export default function Pricing() {
                     <div className="font-bold text-xl text-gray-900 mb-2">SEDAN</div>
                     <div className="text-sm text-gray-600 mb-4">Classic & Comfortable</div>
                     <div className="flex items-center justify-center mb-2">
-                      <span className="text-4xl font-bold text-indigo-600">$80</span>
+                      <span className="text-4xl font-bold text-indigo-600">$60</span>
                     </div>
                     <div className="text-xs text-gray-600">Per report • One-time payment</div>
                     <div className="mt-4 bg-indigo-600 text-white py-2 px-4 rounded-lg font-semibold text-sm">
@@ -514,7 +514,7 @@ export default function Pricing() {
               },
               {
                 question: "Do you offer discounts for multiple reports?",
-                answer: "Currently, each report is priced individually at $40. We may offer promotional pricing from time to time, but each VIN requires a separate report purchase."
+                answer: "Currently, each report is priced individually From 35$. We may offer promotional pricing from time to time, but each VIN requires a separate report purchase."
               },
               {
                 question: "What if the VIN I entered is incorrect?",
@@ -551,7 +551,7 @@ export default function Pricing() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="text-center">
-              <div className="font-semibold text-white">One-time fee: $40</div>
+              <div className="font-semibold text-white">One-time fee: From $35</div>
               <div className="text-blue-100">No recurring charges</div>
             </div>
             <div className="text-center">
