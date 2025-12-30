@@ -109,13 +109,13 @@ export default function TermsOfService() {
                   <div className="ml-3">
                     <h3 className="text-sm font-medium text-blue-800">Refund Policy</h3>
                     <div className="mt-2 text-sm text-blue-700">
-                      <p><strong>14-Day Refund Window:</strong> CarCheck offers refunds within 14 days of purchase under specific conditions. Digital service delivery does not automatically disqualify refund eligibility. Please see our detailed Refund Policy for complete terms.</p>
+                      <p><strong>14-Day Refund Window:</strong> We offer refunds for any reason within 14 days of purchase, in accordance with Paddle's refund policy. No exceptions or qualifiers apply. Please see our detailed Refund Policy for complete terms.</p>
                     </div>
                   </div>
                 </div>
               </div>
               <p className="text-gray-700 leading-relaxed">
-                While this is a digital service providing immediate delivery of vehicle history information, we understand that certain circumstances may warrant a refund. Please review our Refund Policy for detailed information about eligible refund scenarios and the process.
+                Refunds are available for any reason within 14 days of purchase. Please review our Refund Policy for details and instructions on how to request a refund.
               </p>
             </section>
 
