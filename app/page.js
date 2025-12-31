@@ -1475,7 +1475,7 @@ if(formattedDate == "15/11/2025"){
               },
               {
                 question: "Can I get a refund if I'm not satisfied with my ProveNcheck report?",
-                answer: "ProveNcheck is a digital service and all sales are final. We do not offer refunds as the report is delivered immediately upon purchase. Please ensure you enter the correct VIN before purchasing."
+                answer: "Yes, ProveNcheck now offers a 14-day refund policy. If you are not satisfied with your report, you may request a refund within 14 days of purchase, provided the request meets our refund criteria. Please contact our support team with your order details to initiate the process."
               },
               {
                 question: "Do ProveNcheck reports cover vehicles from all countries?",
